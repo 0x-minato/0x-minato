@@ -20,21 +20,21 @@
 
 ## 🧪 try a call
 
-Three transactions are in the mempool. One of them shipped. The other two revert. Open a call.
+Three buttons. One of them is the real trade. The other two are a mess. Click one. 👇
 
 <details>
-<summary><kbd>1</kbd>&nbsp;&nbsp;<code>loop --bounded</code> &nbsp; health factor stays solvent</summary>
+<summary><kbd>1</kbd>&nbsp;&nbsp;<code>loop --bounded</code> &nbsp; the careful one</summary>
 
 <br>
 
-The pricing model holds and token yield moves <b>20–30%</b>. Publish the result.
+Lets gooo 🟢 the loop held, nobody got liquidated, and yield moved <b>20–30%</b>. Now tell the world... properly.
 
 <br>
 
 <details>
 <summary><kbd>1.a</kbd>&nbsp;&nbsp;<code>push defillama adapter</code></summary>
 <br>
-Public TVL goes from <b>$40K</b> to a <b>$25M</b> peak. This is the Troves transaction: the loop, the ERC-4626 vault, and the adapter.
+SHIPPED 🚀 TVL went from <b>$40K</b> to a <b>$25M</b> peak and anyone can check it. This is the Troves one. You cooked. 👨‍🍳
 </details>
 
 <br>
@@ -42,17 +42,17 @@ Public TVL goes from <b>$40K</b> to a <b>$25M</b> peak. This is the Troves trans
 <details>
 <summary><kbd>1.b</kbd>&nbsp;&nbsp;<code>announce it in discord</code></summary>
 <br>
-Then nobody can check the number. You wrote the adapter. Collapse this and take the other call inside <kbd>1</kbd>.
+lol no 😂 a discord message is not a source of truth. You built the adapter for this. Close this and hit <kbd>1.a</kbd>.
 </details>
 
 </details>
 
 <details>
-<summary><kbd>2</kbd>&nbsp;&nbsp;<code>loop --yolo</code> &nbsp; 400% APY, no bounds</summary>
+<summary><kbd>2</kbd>&nbsp;&nbsp;<code>loop --yolo</code> &nbsp; 400% APY, no brakes</summary>
 
 <br>
 
-The loop runs until the health factor doesn't. You are now the liquidity. Revert.
+oh nooo the trade blew up 💥🫠 health factor said goodbye, the loop ate itself, and you ARE the liquidity now. Revert. Try the careful one.
 
 </details>
 
@@ -61,7 +61,7 @@ The loop runs until the health factor doesn't. You are now the liquidity. Revert
 
 <br>
 
-The diamond was right there. You ported lending core through EIP-2535 so this call could not land. Revert.
+absolutely not 🚫👀 you just handed the keys to a random contract. The diamond was RIGHT there. This one reverts before you become a postmortem. 💀
 
 </details>
 
@@ -217,22 +217,29 @@ Pick a lane. Same inbox.
 
 <details>
 <summary><kbd>a</kbd>&nbsp;&nbsp; an agent that finishes</summary>
-<br>
-RAG, LangGraph, and a backend that stays up. <a href="mailto:work.kashyapariyan@gmail.com">Start here.</a>
+
+RAG, LangGraph, and a backend that stays up.
+
+[Email me about an agent](mailto:work.kashyapariyan@gmail.com?subject=An%20agent%20that%20finishes) · [LinkedIn](https://www.linkedin.com/in/ariyan-kashyap-1683541a1) · [GitHub](https://github.com/0x-minato)
+
 </details>
 
 <details>
 <summary><kbd>b</kbd>&nbsp;&nbsp; a protocol with real TVL</summary>
-<br>
-Vault math, relayers, fork tests. <a href="mailto:work.kashyapariyan@gmail.com">Start here.</a>
+
+Vault math, relayers, fork tests.
+
+[Email me about a protocol](mailto:work.kashyapariyan@gmail.com?subject=A%20protocol%20with%20real%20TVL) · [LinkedIn](https://www.linkedin.com/in/ariyan-kashyap-1683541a1) · [GitHub](https://github.com/0x-minato)
+
 </details>
 
 <details>
 <summary><kbd>c</kbd>&nbsp;&nbsp; something weirder</summary>
-<br>
-Say the weird part first. <a href="mailto:work.kashyapariyan@gmail.com">Start here.</a>
+
+Say the weird part first.
+
+[Email me about something weirder](mailto:work.kashyapariyan@gmail.com?subject=Something%20weirder) · [LinkedIn](https://www.linkedin.com/in/ariyan-kashyap-1683541a1) · [GitHub](https://github.com/0x-minato)
+
 </details>
 
-<br>
-
-[GET IN TOUCH](mailto:work.kashyapariyan@gmail.com)
+[GET IN TOUCH](mailto:work.kashyapariyan@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ariyan-kashyap-1683541a1) · [GitHub](https://github.com/0x-minato)
