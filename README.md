@@ -10,11 +10,12 @@
 
 </div>
 
-| | |
-|---|---|
-| **now** | LLM applications · RAG · agents |
-| **shipped** | Troves `$40K → $25M` peak · Endur `$0 → $50M` peak |
-| **open** | engineering roles and interesting collaborations |
+<table>
+<tr><th align="left">now</th><td>LLM applications · RAG · agents</td></tr>
+<tr><th align="left">shipped</th><td>Troves $40K → $25M peak · Endur $0 → $50M peak</td></tr>
+<tr><th align="left">open</th><td>engineering roles and interesting collaborations</td></tr>
+<tr><th align="left">runtime</th><td>curiosity ✅ &nbsp; caffeine ✅ &nbsp; sleep ❌ &nbsp; touching grass still in the backlog 🌱</td></tr>
+</table>
 
 ---
 
