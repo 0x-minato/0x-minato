@@ -1,6 +1,11 @@
 <div align="center">
 
-# Ariyan Kashyap 👋
+<h1>
+<details>
+<summary>minato</summary>
+Ariyan Kashyap 👋
+</details>
+</h1>
 
 ![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=7C9CFF&center=true&vCenter=true&width=720&height=36&lines=AI+%26+Backend+Engineer;Building+LLM-powered+applications;RAG+%7C+LangGraph+%7C+TypeScript;Previously+building+DeFi+infrastructure)
 
