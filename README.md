@@ -89,9 +89,6 @@ I enjoy working on complex engineering problems, from designing smart contract a
 
 <img src="assets/activity.svg" alt="Recent GitHub activity" width="840">
 
-pushed → <a href="https://github.com/0x-minato/KazeSetu">KazeSetu</a> · <a href="https://github.com/0x-minato/Langchain-basics">Langchain-basics</a> · <a href="https://github.com/0x-minato/Calendly">Calendly</a><br>
-merged → <a href="https://github.com/0x-minato/KazeSetu/pull/2">final integrations</a> · <a href="https://github.com/0x-minato/KazeSetu/pull/1">[core] indexer, worker &amp; vault impl</a>
-
 </div>
 <!-- activity:end -->
 
