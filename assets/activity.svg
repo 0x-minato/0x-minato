@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="290" viewBox="0 0 840 290" fill="none">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+  </style>
+  <rect x="0.5" y="0.5" width="839" height="289" rx="14" fill="#0D1117" stroke="#30363D"/>
+  <line x1="472" y1="24" x2="472" y2="266" stroke="#21262D"/>
+
+  <text x="28" y="34" fill="#8B949E" font-size="11" font-weight="600" letter-spacing="1.2">RECENT PUSHES</text>
+  <text x="430" y="34" text-anchor="end" fill="#7C9CFF" font-size="11" font-weight="600" letter-spacing="1">PUBLIC</text>
+  <circle cx="34" cy="74" r="4" fill="#3FB950"/><text x="48" y="78" fill="#E6EDF3" font-size="13" font-weight="600">KazeSetu</text><text x="210" y="78" fill="#8B949E" font-size="12">5 pushes</text><rect x="280" y="69" width="150" height="8" rx="4" fill="#21262D"/><rect x="280" y="69" width="94" height="8" rx="4" fill="#3FB950"/><circle cx="34" cy="102" r="4" fill="#3FB950"/><text x="48" y="106" fill="#E6EDF3" font-size="13" font-weight="600">Langchain-basics</text><text x="210" y="106" fill="#8B949E" font-size="12">8 pushes</text><rect x="280" y="97" width="150" height="8" rx="4" fill="#21262D"/><rect x="280" y="97" width="150" height="8" rx="4" fill="#3FB950"/><circle cx="34" cy="130" r="4" fill="#3FB950"/><text x="48" y="134" fill="#E6EDF3" font-size="13" font-weight="600">Calendly</text><text x="210" y="134" fill="#8B949E" font-size="12">1 push</text><rect x="280" y="125" width="150" height="8" rx="4" fill="#21262D"/><rect x="280" y="125" width="36" height="8" rx="4" fill="#3FB950"/>
+
+  <text x="28" y="172" fill="#8B949E" font-size="11" font-weight="600" letter-spacing="1.2">RECENT MERGES</text>
+  <circle cx="34" cy="200" r="4" fill="#A371F7"/><text x="48" y="204" fill="#E6EDF3" font-size="13">KazeSetu · final integrations</text><rect x="372" y="191" width="58" height="18" rx="9" fill="#271B3A"/><text x="401" y="203" text-anchor="middle" fill="#D2A8FF" font-size="11" font-weight="600">merged</text><circle cx="34" cy="230" r="4" fill="#A371F7"/><text x="48" y="234" fill="#E6EDF3" font-size="13">KazeSetu · [core] indexer, worker &amp; vault ...</text><rect x="372" y="221" width="58" height="18" rx="9" fill="#271B3A"/><text x="401" y="233" text-anchor="middle" fill="#D2A8FF" font-size="11" font-weight="600">merged</text>
+
+  <text x="500" y="34" fill="#8B949E" font-size="11" font-weight="600" letter-spacing="1.2">ACTIVITY MIX</text>
+  <line x1="592" y1="158" x2="748" y2="158" stroke="#3FB950" stroke-opacity="0.45" stroke-width="1.5"/>
+  <line x1="670" y1="80" x2="670" y2="236" stroke="#3FB950" stroke-opacity="0.45" stroke-width="1.5"/>
+  <polygon points="607,158 670,144 676,158 670,220" fill="#3FB950" fill-opacity="0.28" stroke="#3FB950" stroke-width="2"/>
+  <circle cx="607" cy="158" r="4.5" fill="#E6EDF3" stroke="#3FB950" stroke-width="2"/><circle cx="670" cy="144" r="4.5" fill="#E6EDF3" stroke="#3FB950" stroke-width="2"/><circle cx="676" cy="158" r="4.5" fill="#E6EDF3" stroke="#3FB950" stroke-width="2"/><circle cx="670" cy="220" r="4.5" fill="#E6EDF3" stroke="#3FB950" stroke-width="2"/>
+
+  <text x="670" y="58" text-anchor="middle" fill="#E6EDF3" font-size="12" font-weight="600">7%</text>
+  <text x="670" y="72" text-anchor="middle" fill="#8B949E" font-size="11">Code review</text>
+
+  <text x="670" y="254" text-anchor="middle" fill="#E6EDF3" font-size="12" font-weight="600">46%</text>
+  <text x="670" y="268" text-anchor="middle" fill="#8B949E" font-size="11">Pull requests</text>
+
+  <text x="582" y="154" text-anchor="end" fill="#E6EDF3" font-size="12" font-weight="600">47%</text>
+  <text x="582" y="169" text-anchor="end" fill="#8B949E" font-size="11">Commits</text>
+
+  <text x="758" y="162" fill="#8B949E" font-size="11">Issues</text>
+</svg>
